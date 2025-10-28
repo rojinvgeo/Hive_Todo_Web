@@ -42,10 +42,12 @@ It features a clean UI, supports both light and dark themes, and is fully deploy
    ```bash
    git clone https://github.com/rojinvgeo/Hive_Web_App.git
    
-2. Install dependencies
+2. **Install dependencies**
+3. ```bash
    flutter pub get
    
-3. Run the app locally
+4. **Run the app locally**
+   ```bash
    flutter run -d chrome
 
 
